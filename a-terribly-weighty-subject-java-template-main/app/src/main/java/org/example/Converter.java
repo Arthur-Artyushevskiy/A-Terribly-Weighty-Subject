@@ -1,6 +1,5 @@
 package org.example;
 import java.util.Scanner;
-
 public class Converter {
     String toPounds(int num_oz){
         double value = (double) num_oz * 0.0625;
@@ -64,3 +63,4 @@ public class Converter {
     }
 
 }
+
